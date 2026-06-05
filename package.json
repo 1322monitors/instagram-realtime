@@ -1,0 +1,9 @@
+{
+  "name": "instagram-realtime",
+  "version": "1.0.0",
+  "description": "Real-time Instagram posts/stories/reels over WebSocket",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": { "ws": "^8.18.0" }
+}
