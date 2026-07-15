@@ -10,6 +10,7 @@ independent of Meta's API — no IG developer credentials needed). Useful for
 brand monitoring, influencer/drop tracking, leak detection.
 
 Platform page: https://1322.io/platforms/instagram
+Tracking stories in real time (they expire within 24h): https://1322.io/blog/instagram-story-tracker
 
 ## run
 
