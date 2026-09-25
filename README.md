@@ -26,6 +26,6 @@ instagram exposes them.
 
 ## Related
 
-- [1322-client](https://github.com/SisoSol/1322-client) - typed TypeScript/JavaScript client for the 1322 feeds
-- [social-monitor-examples/instagram](https://github.com/SisoSol/social-monitor-examples/tree/main/instagram) - the minimal Python consumer
+- [1322-client](https://github.com/1322monitors/1322-client) - typed TypeScript/JavaScript client for the 1322 feeds
+- [social-monitor-examples/instagram](https://github.com/1322monitors/social-monitor-examples/tree/main/instagram) - the minimal Python consumer
 - [Instagram story tracker guide](https://1322.io/blog/instagram-story-tracker)
